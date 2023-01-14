@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Here are some links that can help you find me across the internet:
-[My Independant Study on Information Security](https://ewilber.sites.da.org/2022/12/19/my-final-project/)
-[Instagram](https://www.instagram.com/24evergreen12/)
+- [My Independant Study on Information Security](https://ewilber.sites.da.org/2022/12/19/my-final-project/)
+- [Instagram](https://www.instagram.com/24evergreen12/)
