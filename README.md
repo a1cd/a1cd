@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 Here are some links that can help you find me across the internet:
 - [My Independant Study on Information Security](https://ewilber.sites.da.org/2022/12/19/my-final-project/)
 - [Instagram](https://www.instagram.com/24evergreen12/)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1cd&langs_count=8" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=a1cd&count_private=true&show_icons=true" />
+</a>
