@@ -24,4 +24,4 @@ Here are some links that can help you find me across the internet:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=a1cd&count_private=true&show_icons=true" />
 </a>
-[![GitHub Streak](https://streak-stats.demolab.com?user=a1cd&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+<img align="center" src="https://streak-stats.demolab.com/?user=a1cd&theme=transparent&hide_border=true"/>
