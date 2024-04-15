@@ -19,7 +19,7 @@ Here are some links that can help you find me across the internet:
 - [Instagram](https://www.instagram.com/24evergreen12/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1cd&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1cd&langs_count=8" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=a1cd&count_private=true&show_icons=true&hide_rank=true" />
