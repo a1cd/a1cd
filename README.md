@@ -18,7 +18,7 @@ Here are some links that can help you find me across the internet:
 - [My Independant Study on Information Security](https://ewilber.sites.da.org/2022/12/19/my-final-project/)
 - [Instagram](https://www.instagram.com/24evergreen12/)
 
-<a href="https://gitroll.io/profile/uvmOxFwkWpmaCIykUkEBwUr2U3MW2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uvmOxFwkWpmaCIykUkEBwUr2U3MW2" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uvmOxFwkWpmaCIykUkEBwUr2U3MW2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uvmOxFwkWpmaCIykUkEBwUr2U3MW2?theme=light" alt="GitRoll Profile Badge"/></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1cd&langs_count=8" />
